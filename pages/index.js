@@ -1,4 +1,4 @@
-import classes from '../styles/index.module.sass'
+import classes from '../styles/index.module.scss';
 
 
 function IndexPage() {
